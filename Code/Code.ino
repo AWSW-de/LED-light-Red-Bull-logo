@@ -62,7 +62,7 @@ String code_version = "V1.0.0";
 // # LED settings:
 // ###############################################################################################################################
 Adafruit_NeoPixel strip(LED_COUNT, LED_PIN, NEO_GRB + NEO_KHZ800);
-int LEDBRIGHTNESS = 128;              // Fan LED default brightness (0-255)
+int LEDBRIGHTNESS = 128;              // LED default brightness (0-255)
 
 
 // ###############################################################################################################################
